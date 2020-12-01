@@ -20,3 +20,12 @@ Yesterday, I had some bacon and french toast for breakfast.
 4. Mario Kart Wii
 
 5. Sonic Generations
+
+## Checklist for Pro Dev
+
+-[ ] Report
+
+-[x] LinkedIn 
+
+-[ ] Website
+
