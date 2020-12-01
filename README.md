@@ -31,11 +31,6 @@ Yesterday, I had some bacon and french toast for breakfast.
 
 ## Code from GEC
 
-int main()
-{
-	int num1;
-	char ans;
-
 	do
 	{
 		do
@@ -67,5 +62,4 @@ int main()
 	
 
 	return 0;
-}
 
