@@ -23,9 +23,9 @@ Yesterday, I had some bacon and french toast for breakfast.
 
 ## Checklist for Pro Dev
 
--[ ] Report
+- [ ] Report
 
--[x] LinkedIn 
+- [x] LinkedIn 
 
--[ ] Website
+- [ ] Website
 
