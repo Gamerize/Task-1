@@ -5,6 +5,8 @@
 
 Yesterday, I had some bacon and french toast for breakfast.
 
+## LinkedIn Account
+
 [linkedIn](https://www.linkedin.com/in/wai-issac-27858b1ba/)
 
 ## My top 5 games
