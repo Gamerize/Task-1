@@ -31,11 +31,6 @@ Yesterday, I had some bacon and french toast for breakfast.
 
 ## Code from GEC
 
-
-'''c++
-#include <iostream>
-using namespace std;
-
 int main()
 {
 	int num1;
@@ -73,4 +68,4 @@ int main()
 
 	return 0;
 }
-'''
+
