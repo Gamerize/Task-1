@@ -32,7 +32,8 @@ Yesterday, I had some bacon and french toast for breakfast.
 ## Code from GEC
 
 
-'''#include <iostream>
+'''c++
+#include <iostream>
 using namespace std;
 
 int main()
