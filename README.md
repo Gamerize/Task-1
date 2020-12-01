@@ -29,3 +29,45 @@ Yesterday, I had some bacon and french toast for breakfast.
 
 - [ ] Website
 
+## Code from GEC
+
+>#include <iostream>
+using namespace std;
+
+int main()
+{
+	int num1;
+	char ans;
+
+	do
+	{
+		do
+		{
+			cout << "Please enter a number (1 to 10): ";
+			cin >> num1;
+			if (num1 > 10 || num1 < 1)
+			{
+				cout << "Invalid number, please re-enter." << endl;
+			}
+		} while (num1 > 10 || num1 < 1);
+
+		for (int i = 0; i < num1; i++)
+		{
+			for (int j = 0; j < i; j++)
+			{
+				cout << "*";
+			}
+			cout << endl;
+		}
+
+		cout << "Do you wish to have another go [Y or N]?: ";
+		cin >> ans;
+		if (ans == 'n' || ans == 'N')
+		{
+			cout << "Goodbye!" << endl;
+		}
+	} while (ans == 'y' || ans == 'Y');
+	
+
+	return 0;
+>}
